@@ -36,7 +36,7 @@ public class LinioTest {
 		//LIMPIAR LA CAJA DE TEXTO DE BUSQUEDA
 		txtBusqueda.clear();
 		//ENVIAR UN VALOR A BUSCAR
-		txtBusqueda.sendKeys("Redmi Note");
+		txtBusqueda.sendKeys("Redmi Not");
 		//ACEPTAR BUSQUEDA
 		txtBusqueda.submit();
 		//OBJETO PRODUCTO A SELECCIONAR
